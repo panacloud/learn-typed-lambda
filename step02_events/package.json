@@ -1,0 +1,13 @@
+{
+  "name": "step01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
