@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"module": "commonjs",
+		"sourceMap": true,
+        "outDir": "functions/",
+        "rootDir": "src/"
+	},
+    "files": [
+            "src/hello/handler.ts",
+            "src/second/handler.ts"
+        ]
+}
